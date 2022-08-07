@@ -2,6 +2,7 @@
 ## step1:Connecting
 
 <img width="782" alt="image" src="https://user-images.githubusercontent.com/107959289/183286962-f89e9f6f-b2e8-42fc-a6a1-143d043adaee.png">
+
 ## step2:Write the code in arduino
 
 ```
