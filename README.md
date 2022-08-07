@@ -1,8 +1,9 @@
 # Running-servo-motor
-##step1:Connecting
+## step1:Connecting
+
 <img width="782" alt="image" src="https://user-images.githubusercontent.com/107959289/183286962-f89e9f6f-b2e8-42fc-a6a1-143d043adaee.png">
-##step2:Write the code in arduino
-``
+## step2:Write the code in arduino
+```
 /* Sweep
  by BARRAGAN <http://barraganstudio.com>
  This example code is in the public domain.
@@ -34,6 +35,6 @@ void loop() {
     delay(15);                       // waits 15 ms for the servo to reach the position
   }
 }
-``
-##step3:Run code 
+```
+## step3:Run code 
 https://user-images.githubusercontent.com/107959289/183284437-71d3fd0c-3c69-4269-b815-abc86e21057c.mp4
