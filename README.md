@@ -3,6 +3,8 @@
 
 <img width="782" alt="image" src="https://user-images.githubusercontent.com/107959289/183286962-f89e9f6f-b2e8-42fc-a6a1-143d043adaee.png">
 
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/107959289/183287294-85d69fdd-c5dd-4675-8631-b859355bebbb.png">
+
 ## step2:Write the code in arduino
 
 ```
